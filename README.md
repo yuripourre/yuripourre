@@ -1,4 +1,4 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuripourre)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **yuripourre/yuripourre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
